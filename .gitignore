@@ -141,3 +141,9 @@ xcuserdata/**
 local.properties
 gradleBuild
 
+Lecture5/Code/word2vec/checkpoints
+text8
+Lecture5/Code/word2vec/graphs/word2vec/lr1.0
+Lecture5/Code/word2vec/visualization
+Lecture5/Code/word2vec/graphs
+text8.zip
